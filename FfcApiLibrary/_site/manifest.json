@@ -1,0 +1,102 @@
+{
+  "source_base_path": "D:/source/Tutorials/FusionP8WebApis/FfcApiLibrary",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idox.eim.fusionp8.FfcApiHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idox.eim.fusionp8.FfcApiHelper.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "idox.eim.fusionp8.FfcApiHelper",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idox.eim.fusionp8.FfcApiOperations.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idox.eim.fusionp8.FfcApiOperations.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "idox.eim.fusionp8.FfcApiOperations",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idox.eim.fusionp8.WebApiHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idox.eim.fusionp8.WebApiHelper.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "idox.eim.fusionp8.WebApiHelper",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idox.eim.fusionp8.WebApiOperations.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idox.eim.fusionp8.WebApiOperations.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "idox.eim.fusionp8.WebApiOperations",
+      "Summary": "<p sourcefile=\"api/idox.eim.fusionp8.WebApiOperations.yml\" sourcestartlinenumber=\"1\">The WebApiOperations class allows for the submission of requests to the FusionP8 WebApi</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idox.eim.fusionp8.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idox.eim.fusionp8.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "idox.eim.fusionp8",
+      "Summary": null
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html"
+        },
+        ".json": {
+          "relative_path": "api/toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

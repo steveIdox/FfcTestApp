@@ -1,0 +1,311 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: idox.eim.fusionp8
+  name: idox.eim.fusionp8
+  href: api/idox.eim.fusionp8.html
+  commentId: N:idox.eim.fusionp8
+  fullName: idox.eim.fusionp8
+  nameWithType: idox.eim.fusionp8
+- uid: idox.eim.fusionp8.FfcApiHelper
+  name: FfcApiHelper
+  href: api/idox.eim.fusionp8.FfcApiHelper.html
+  commentId: T:idox.eim.fusionp8.FfcApiHelper
+  fullName: idox.eim.fusionp8.FfcApiHelper
+  nameWithType: FfcApiHelper
+- uid: idox.eim.fusionp8.FfcApiHelper.BuildJobTicket(System.String)
+  name: BuildJobTicket(string)
+  href: api/idox.eim.fusionp8.FfcApiHelper.html#idox_eim_fusionp8_FfcApiHelper_BuildJobTicket_System_String_
+  commentId: M:idox.eim.fusionp8.FfcApiHelper.BuildJobTicket(System.String)
+  name.vb: BuildJobTicket(String)
+  fullName: idox.eim.fusionp8.FfcApiHelper.BuildJobTicket(string)
+  fullName.vb: idox.eim.fusionp8.FfcApiHelper.BuildJobTicket(String)
+  nameWithType: FfcApiHelper.BuildJobTicket(string)
+  nameWithType.vb: FfcApiHelper.BuildJobTicket(String)
+- uid: idox.eim.fusionp8.FfcApiHelper.BuildJobTicket*
+  name: BuildJobTicket
+  href: api/idox.eim.fusionp8.FfcApiHelper.html#idox_eim_fusionp8_FfcApiHelper_BuildJobTicket_
+  commentId: Overload:idox.eim.fusionp8.FfcApiHelper.BuildJobTicket
+  isSpec: "True"
+  fullName: idox.eim.fusionp8.FfcApiHelper.BuildJobTicket
+  nameWithType: FfcApiHelper.BuildJobTicket
+- uid: idox.eim.fusionp8.FfcApiHelper.GetJsonProperty(System.String,System.String)
+  name: GetJsonProperty(string, string)
+  href: api/idox.eim.fusionp8.FfcApiHelper.html#idox_eim_fusionp8_FfcApiHelper_GetJsonProperty_System_String_System_String_
+  commentId: M:idox.eim.fusionp8.FfcApiHelper.GetJsonProperty(System.String,System.String)
+  name.vb: GetJsonProperty(String, String)
+  fullName: idox.eim.fusionp8.FfcApiHelper.GetJsonProperty(string, string)
+  fullName.vb: idox.eim.fusionp8.FfcApiHelper.GetJsonProperty(String, String)
+  nameWithType: FfcApiHelper.GetJsonProperty(string, string)
+  nameWithType.vb: FfcApiHelper.GetJsonProperty(String, String)
+- uid: idox.eim.fusionp8.FfcApiHelper.GetJsonProperty*
+  name: GetJsonProperty
+  href: api/idox.eim.fusionp8.FfcApiHelper.html#idox_eim_fusionp8_FfcApiHelper_GetJsonProperty_
+  commentId: Overload:idox.eim.fusionp8.FfcApiHelper.GetJsonProperty
+  isSpec: "True"
+  fullName: idox.eim.fusionp8.FfcApiHelper.GetJsonProperty
+  nameWithType: FfcApiHelper.GetJsonProperty
+- uid: idox.eim.fusionp8.FfcApiHelper.ticket
+  name: ticket
+  href: api/idox.eim.fusionp8.FfcApiHelper.html#idox_eim_fusionp8_FfcApiHelper_ticket
+  commentId: F:idox.eim.fusionp8.FfcApiHelper.ticket
+  fullName: idox.eim.fusionp8.FfcApiHelper.ticket
+  nameWithType: FfcApiHelper.ticket
+- uid: idox.eim.fusionp8.FfcApiOperations
+  name: FfcApiOperations
+  href: api/idox.eim.fusionp8.FfcApiOperations.html
+  commentId: T:idox.eim.fusionp8.FfcApiOperations
+  fullName: idox.eim.fusionp8.FfcApiOperations
+  nameWithType: FfcApiOperations
+- uid: idox.eim.fusionp8.FfcApiOperations.DeleteConverterJob(System.String,System.String,System.String,System.Boolean,System.Boolean)
+  name: DeleteConverterJob(string, string, string, bool, bool)
+  href: api/idox.eim.fusionp8.FfcApiOperations.html#idox_eim_fusionp8_FfcApiOperations_DeleteConverterJob_System_String_System_String_System_String_System_Boolean_System_Boolean_
+  commentId: M:idox.eim.fusionp8.FfcApiOperations.DeleteConverterJob(System.String,System.String,System.String,System.Boolean,System.Boolean)
+  name.vb: DeleteConverterJob(String, String, String, Boolean, Boolean)
+  fullName: idox.eim.fusionp8.FfcApiOperations.DeleteConverterJob(string, string, string, bool, bool)
+  fullName.vb: idox.eim.fusionp8.FfcApiOperations.DeleteConverterJob(String, String, String, Boolean, Boolean)
+  nameWithType: FfcApiOperations.DeleteConverterJob(string, string, string, bool, bool)
+  nameWithType.vb: FfcApiOperations.DeleteConverterJob(String, String, String, Boolean, Boolean)
+- uid: idox.eim.fusionp8.FfcApiOperations.DeleteConverterJob*
+  name: DeleteConverterJob
+  href: api/idox.eim.fusionp8.FfcApiOperations.html#idox_eim_fusionp8_FfcApiOperations_DeleteConverterJob_
+  commentId: Overload:idox.eim.fusionp8.FfcApiOperations.DeleteConverterJob
+  isSpec: "True"
+  fullName: idox.eim.fusionp8.FfcApiOperations.DeleteConverterJob
+  nameWithType: FfcApiOperations.DeleteConverterJob
+- uid: idox.eim.fusionp8.FfcApiOperations.GetFileConverterJob(System.String,System.String,System.String)
+  name: GetFileConverterJob(string, string, string)
+  href: api/idox.eim.fusionp8.FfcApiOperations.html#idox_eim_fusionp8_FfcApiOperations_GetFileConverterJob_System_String_System_String_System_String_
+  commentId: M:idox.eim.fusionp8.FfcApiOperations.GetFileConverterJob(System.String,System.String,System.String)
+  name.vb: GetFileConverterJob(String, String, String)
+  fullName: idox.eim.fusionp8.FfcApiOperations.GetFileConverterJob(string, string, string)
+  fullName.vb: idox.eim.fusionp8.FfcApiOperations.GetFileConverterJob(String, String, String)
+  nameWithType: FfcApiOperations.GetFileConverterJob(string, string, string)
+  nameWithType.vb: FfcApiOperations.GetFileConverterJob(String, String, String)
+- uid: idox.eim.fusionp8.FfcApiOperations.GetFileConverterJob*
+  name: GetFileConverterJob
+  href: api/idox.eim.fusionp8.FfcApiOperations.html#idox_eim_fusionp8_FfcApiOperations_GetFileConverterJob_
+  commentId: Overload:idox.eim.fusionp8.FfcApiOperations.GetFileConverterJob
+  isSpec: "True"
+  fullName: idox.eim.fusionp8.FfcApiOperations.GetFileConverterJob
+  nameWithType: FfcApiOperations.GetFileConverterJob
+- uid: idox.eim.fusionp8.FfcApiOperations.RequestAccessToken(System.String,System.String,System.String)
+  name: RequestAccessToken(string, string, string)
+  href: api/idox.eim.fusionp8.FfcApiOperations.html#idox_eim_fusionp8_FfcApiOperations_RequestAccessToken_System_String_System_String_System_String_
+  commentId: M:idox.eim.fusionp8.FfcApiOperations.RequestAccessToken(System.String,System.String,System.String)
+  name.vb: RequestAccessToken(String, String, String)
+  fullName: idox.eim.fusionp8.FfcApiOperations.RequestAccessToken(string, string, string)
+  fullName.vb: idox.eim.fusionp8.FfcApiOperations.RequestAccessToken(String, String, String)
+  nameWithType: FfcApiOperations.RequestAccessToken(string, string, string)
+  nameWithType.vb: FfcApiOperations.RequestAccessToken(String, String, String)
+- uid: idox.eim.fusionp8.FfcApiOperations.RequestAccessToken*
+  name: RequestAccessToken
+  href: api/idox.eim.fusionp8.FfcApiOperations.html#idox_eim_fusionp8_FfcApiOperations_RequestAccessToken_
+  commentId: Overload:idox.eim.fusionp8.FfcApiOperations.RequestAccessToken
+  isSpec: "True"
+  fullName: idox.eim.fusionp8.FfcApiOperations.RequestAccessToken
+  nameWithType: FfcApiOperations.RequestAccessToken
+- uid: idox.eim.fusionp8.FfcApiOperations.SubmitJobTicket(System.String,System.String,System.String,System.String)
+  name: SubmitJobTicket(string, string, string, string)
+  href: api/idox.eim.fusionp8.FfcApiOperations.html#idox_eim_fusionp8_FfcApiOperations_SubmitJobTicket_System_String_System_String_System_String_System_String_
+  commentId: M:idox.eim.fusionp8.FfcApiOperations.SubmitJobTicket(System.String,System.String,System.String,System.String)
+  name.vb: SubmitJobTicket(String, String, String, String)
+  fullName: idox.eim.fusionp8.FfcApiOperations.SubmitJobTicket(string, string, string, string)
+  fullName.vb: idox.eim.fusionp8.FfcApiOperations.SubmitJobTicket(String, String, String, String)
+  nameWithType: FfcApiOperations.SubmitJobTicket(string, string, string, string)
+  nameWithType.vb: FfcApiOperations.SubmitJobTicket(String, String, String, String)
+- uid: idox.eim.fusionp8.FfcApiOperations.SubmitJobTicket*
+  name: SubmitJobTicket
+  href: api/idox.eim.fusionp8.FfcApiOperations.html#idox_eim_fusionp8_FfcApiOperations_SubmitJobTicket_
+  commentId: Overload:idox.eim.fusionp8.FfcApiOperations.SubmitJobTicket
+  isSpec: "True"
+  fullName: idox.eim.fusionp8.FfcApiOperations.SubmitJobTicket
+  nameWithType: FfcApiOperations.SubmitJobTicket
+- uid: idox.eim.fusionp8.WebApiHelper
+  name: WebApiHelper
+  href: api/idox.eim.fusionp8.WebApiHelper.html
+  commentId: T:idox.eim.fusionp8.WebApiHelper
+  fullName: idox.eim.fusionp8.WebApiHelper
+  nameWithType: WebApiHelper
+- uid: idox.eim.fusionp8.WebApiHelper.IsJsonValid(System.String)
+  name: IsJsonValid(string)
+  href: api/idox.eim.fusionp8.WebApiHelper.html#idox_eim_fusionp8_WebApiHelper_IsJsonValid_System_String_
+  commentId: M:idox.eim.fusionp8.WebApiHelper.IsJsonValid(System.String)
+  name.vb: IsJsonValid(String)
+  fullName: idox.eim.fusionp8.WebApiHelper.IsJsonValid(string)
+  fullName.vb: idox.eim.fusionp8.WebApiHelper.IsJsonValid(String)
+  nameWithType: WebApiHelper.IsJsonValid(string)
+  nameWithType.vb: WebApiHelper.IsJsonValid(String)
+- uid: idox.eim.fusionp8.WebApiHelper.IsJsonValid*
+  name: IsJsonValid
+  href: api/idox.eim.fusionp8.WebApiHelper.html#idox_eim_fusionp8_WebApiHelper_IsJsonValid_
+  commentId: Overload:idox.eim.fusionp8.WebApiHelper.IsJsonValid
+  isSpec: "True"
+  fullName: idox.eim.fusionp8.WebApiHelper.IsJsonValid
+  nameWithType: WebApiHelper.IsJsonValid
+- uid: idox.eim.fusionp8.WebApiOperations
+  name: WebApiOperations
+  href: api/idox.eim.fusionp8.WebApiOperations.html
+  commentId: T:idox.eim.fusionp8.WebApiOperations
+  fullName: idox.eim.fusionp8.WebApiOperations
+  nameWithType: WebApiOperations
+- uid: idox.eim.fusionp8.WebApiOperations.CreateConnection(System.String,System.String,System.String,System.String,System.String)
+  name: CreateConnection(string, string, string, string, string)
+  href: api/idox.eim.fusionp8.WebApiOperations.html#idox_eim_fusionp8_WebApiOperations_CreateConnection_System_String_System_String_System_String_System_String_System_String_
+  commentId: M:idox.eim.fusionp8.WebApiOperations.CreateConnection(System.String,System.String,System.String,System.String,System.String)
+  name.vb: CreateConnection(String, String, String, String, String)
+  fullName: idox.eim.fusionp8.WebApiOperations.CreateConnection(string, string, string, string, string)
+  fullName.vb: idox.eim.fusionp8.WebApiOperations.CreateConnection(String, String, String, String, String)
+  nameWithType: WebApiOperations.CreateConnection(string, string, string, string, string)
+  nameWithType.vb: WebApiOperations.CreateConnection(String, String, String, String, String)
+- uid: idox.eim.fusionp8.WebApiOperations.CreateConnection*
+  name: CreateConnection
+  href: api/idox.eim.fusionp8.WebApiOperations.html#idox_eim_fusionp8_WebApiOperations_CreateConnection_
+  commentId: Overload:idox.eim.fusionp8.WebApiOperations.CreateConnection
+  isSpec: "True"
+  fullName: idox.eim.fusionp8.WebApiOperations.CreateConnection
+  nameWithType: WebApiOperations.CreateConnection
+- uid: idox.eim.fusionp8.WebApiOperations.GetConnectionId(System.String,System.String,System.String,System.String)
+  name: GetConnectionId(string, string, string, string)
+  href: api/idox.eim.fusionp8.WebApiOperations.html#idox_eim_fusionp8_WebApiOperations_GetConnectionId_System_String_System_String_System_String_System_String_
+  commentId: M:idox.eim.fusionp8.WebApiOperations.GetConnectionId(System.String,System.String,System.String,System.String)
+  name.vb: GetConnectionId(String, String, String, String)
+  fullName: idox.eim.fusionp8.WebApiOperations.GetConnectionId(string, string, string, string)
+  fullName.vb: idox.eim.fusionp8.WebApiOperations.GetConnectionId(String, String, String, String)
+  nameWithType: WebApiOperations.GetConnectionId(string, string, string, string)
+  nameWithType.vb: WebApiOperations.GetConnectionId(String, String, String, String)
+- uid: idox.eim.fusionp8.WebApiOperations.GetConnectionId*
+  name: GetConnectionId
+  href: api/idox.eim.fusionp8.WebApiOperations.html#idox_eim_fusionp8_WebApiOperations_GetConnectionId_
+  commentId: Overload:idox.eim.fusionp8.WebApiOperations.GetConnectionId
+  isSpec: "True"
+  fullName: idox.eim.fusionp8.WebApiOperations.GetConnectionId
+  nameWithType: WebApiOperations.GetConnectionId
+- uid: idox.eim.fusionp8.WebApiOperations.RequestAccessToken(System.String,System.String,System.String)
+  name: RequestAccessToken(string, string, string)
+  href: api/idox.eim.fusionp8.WebApiOperations.html#idox_eim_fusionp8_WebApiOperations_RequestAccessToken_System_String_System_String_System_String_
+  commentId: M:idox.eim.fusionp8.WebApiOperations.RequestAccessToken(System.String,System.String,System.String)
+  name.vb: RequestAccessToken(String, String, String)
+  fullName: idox.eim.fusionp8.WebApiOperations.RequestAccessToken(string, string, string)
+  fullName.vb: idox.eim.fusionp8.WebApiOperations.RequestAccessToken(String, String, String)
+  nameWithType: WebApiOperations.RequestAccessToken(string, string, string)
+  nameWithType.vb: WebApiOperations.RequestAccessToken(String, String, String)
+- uid: idox.eim.fusionp8.WebApiOperations.RequestAccessToken*
+  name: RequestAccessToken
+  href: api/idox.eim.fusionp8.WebApiOperations.html#idox_eim_fusionp8_WebApiOperations_RequestAccessToken_
+  commentId: Overload:idox.eim.fusionp8.WebApiOperations.RequestAccessToken
+  isSpec: "True"
+  fullName: idox.eim.fusionp8.WebApiOperations.RequestAccessToken
+  nameWithType: WebApiOperations.RequestAccessToken
+- uid: idox.eim.fusionp8.WebApiOperations.amend(System.String,System.String,System.String,System.String)
+  name: amend(string, string, string, string)
+  href: api/idox.eim.fusionp8.WebApiOperations.html#idox_eim_fusionp8_WebApiOperations_amend_System_String_System_String_System_String_System_String_
+  commentId: M:idox.eim.fusionp8.WebApiOperations.amend(System.String,System.String,System.String,System.String)
+  name.vb: amend(String, String, String, String)
+  fullName: idox.eim.fusionp8.WebApiOperations.amend(string, string, string, string)
+  fullName.vb: idox.eim.fusionp8.WebApiOperations.amend(String, String, String, String)
+  nameWithType: WebApiOperations.amend(string, string, string, string)
+  nameWithType.vb: WebApiOperations.amend(String, String, String, String)
+- uid: idox.eim.fusionp8.WebApiOperations.amend*
+  name: amend
+  href: api/idox.eim.fusionp8.WebApiOperations.html#idox_eim_fusionp8_WebApiOperations_amend_
+  commentId: Overload:idox.eim.fusionp8.WebApiOperations.amend
+  isSpec: "True"
+  fullName: idox.eim.fusionp8.WebApiOperations.amend
+  nameWithType: WebApiOperations.amend
+- uid: idox.eim.fusionp8.WebApiOperations.delete(System.String,System.String,System.String)
+  name: delete(string, string, string)
+  href: api/idox.eim.fusionp8.WebApiOperations.html#idox_eim_fusionp8_WebApiOperations_delete_System_String_System_String_System_String_
+  commentId: M:idox.eim.fusionp8.WebApiOperations.delete(System.String,System.String,System.String)
+  name.vb: delete(String, String, String)
+  fullName: idox.eim.fusionp8.WebApiOperations.delete(string, string, string)
+  fullName.vb: idox.eim.fusionp8.WebApiOperations.delete(String, String, String)
+  nameWithType: WebApiOperations.delete(string, string, string)
+  nameWithType.vb: WebApiOperations.delete(String, String, String)
+- uid: idox.eim.fusionp8.WebApiOperations.delete*
+  name: delete
+  href: api/idox.eim.fusionp8.WebApiOperations.html#idox_eim_fusionp8_WebApiOperations_delete_
+  commentId: Overload:idox.eim.fusionp8.WebApiOperations.delete
+  isSpec: "True"
+  fullName: idox.eim.fusionp8.WebApiOperations.delete
+  nameWithType: WebApiOperations.delete
+- uid: idox.eim.fusionp8.WebApiOperations.details(System.String,System.String,System.String)
+  name: details(string, string, string)
+  href: api/idox.eim.fusionp8.WebApiOperations.html#idox_eim_fusionp8_WebApiOperations_details_System_String_System_String_System_String_
+  commentId: M:idox.eim.fusionp8.WebApiOperations.details(System.String,System.String,System.String)
+  name.vb: details(String, String, String)
+  fullName: idox.eim.fusionp8.WebApiOperations.details(string, string, string)
+  fullName.vb: idox.eim.fusionp8.WebApiOperations.details(String, String, String)
+  nameWithType: WebApiOperations.details(string, string, string)
+  nameWithType.vb: WebApiOperations.details(String, String, String)
+- uid: idox.eim.fusionp8.WebApiOperations.details*
+  name: details
+  href: api/idox.eim.fusionp8.WebApiOperations.html#idox_eim_fusionp8_WebApiOperations_details_
+  commentId: Overload:idox.eim.fusionp8.WebApiOperations.details
+  isSpec: "True"
+  fullName: idox.eim.fusionp8.WebApiOperations.details
+  nameWithType: WebApiOperations.details
+- uid: idox.eim.fusionp8.WebApiOperations.insert(System.String,System.String,System.String,System.String,System.String)
+  name: insert(string, string, string, string, string)
+  href: api/idox.eim.fusionp8.WebApiOperations.html#idox_eim_fusionp8_WebApiOperations_insert_System_String_System_String_System_String_System_String_System_String_
+  commentId: M:idox.eim.fusionp8.WebApiOperations.insert(System.String,System.String,System.String,System.String,System.String)
+  name.vb: insert(String, String, String, String, String)
+  fullName: idox.eim.fusionp8.WebApiOperations.insert(string, string, string, string, string)
+  fullName.vb: idox.eim.fusionp8.WebApiOperations.insert(String, String, String, String, String)
+  nameWithType: WebApiOperations.insert(string, string, string, string, string)
+  nameWithType.vb: WebApiOperations.insert(String, String, String, String, String)
+- uid: idox.eim.fusionp8.WebApiOperations.insert*
+  name: insert
+  href: api/idox.eim.fusionp8.WebApiOperations.html#idox_eim_fusionp8_WebApiOperations_insert_
+  commentId: Overload:idox.eim.fusionp8.WebApiOperations.insert
+  isSpec: "True"
+  fullName: idox.eim.fusionp8.WebApiOperations.insert
+  nameWithType: WebApiOperations.insert
+- uid: idox.eim.fusionp8.WebApiOperations.lifecycleTransition(System.String,System.String,System.String,System.String,System.String,System.String,System.String)
+  name: lifecycleTransition(string, string, string, string, string, string, string)
+  href: api/idox.eim.fusionp8.WebApiOperations.html#idox_eim_fusionp8_WebApiOperations_lifecycleTransition_System_String_System_String_System_String_System_String_System_String_System_String_System_String_
+  commentId: M:idox.eim.fusionp8.WebApiOperations.lifecycleTransition(System.String,System.String,System.String,System.String,System.String,System.String,System.String)
+  name.vb: lifecycleTransition(String, String, String, String, String, String, String)
+  fullName: idox.eim.fusionp8.WebApiOperations.lifecycleTransition(string, string, string, string, string, string, string)
+  fullName.vb: idox.eim.fusionp8.WebApiOperations.lifecycleTransition(String, String, String, String, String, String, String)
+  nameWithType: WebApiOperations.lifecycleTransition(string, string, string, string, string, string, string)
+  nameWithType.vb: WebApiOperations.lifecycleTransition(String, String, String, String, String, String, String)
+- uid: idox.eim.fusionp8.WebApiOperations.lifecycleTransition*
+  name: lifecycleTransition
+  href: api/idox.eim.fusionp8.WebApiOperations.html#idox_eim_fusionp8_WebApiOperations_lifecycleTransition_
+  commentId: Overload:idox.eim.fusionp8.WebApiOperations.lifecycleTransition
+  isSpec: "True"
+  fullName: idox.eim.fusionp8.WebApiOperations.lifecycleTransition
+  nameWithType: WebApiOperations.lifecycleTransition
+- uid: idox.eim.fusionp8.WebApiOperations.retrieve(System.String,System.String,System.String)
+  name: retrieve(string, string, string)
+  href: api/idox.eim.fusionp8.WebApiOperations.html#idox_eim_fusionp8_WebApiOperations_retrieve_System_String_System_String_System_String_
+  commentId: M:idox.eim.fusionp8.WebApiOperations.retrieve(System.String,System.String,System.String)
+  name.vb: retrieve(String, String, String)
+  fullName: idox.eim.fusionp8.WebApiOperations.retrieve(string, string, string)
+  fullName.vb: idox.eim.fusionp8.WebApiOperations.retrieve(String, String, String)
+  nameWithType: WebApiOperations.retrieve(string, string, string)
+  nameWithType.vb: WebApiOperations.retrieve(String, String, String)
+- uid: idox.eim.fusionp8.WebApiOperations.retrieve*
+  name: retrieve
+  href: api/idox.eim.fusionp8.WebApiOperations.html#idox_eim_fusionp8_WebApiOperations_retrieve_
+  commentId: Overload:idox.eim.fusionp8.WebApiOperations.retrieve
+  isSpec: "True"
+  fullName: idox.eim.fusionp8.WebApiOperations.retrieve
+  nameWithType: WebApiOperations.retrieve
+- uid: idox.eim.fusionp8.WebApiOperations.search(System.String,System.String,System.String)
+  name: search(string, string, string)
+  href: api/idox.eim.fusionp8.WebApiOperations.html#idox_eim_fusionp8_WebApiOperations_search_System_String_System_String_System_String_
+  commentId: M:idox.eim.fusionp8.WebApiOperations.search(System.String,System.String,System.String)
+  name.vb: search(String, String, String)
+  fullName: idox.eim.fusionp8.WebApiOperations.search(string, string, string)
+  fullName.vb: idox.eim.fusionp8.WebApiOperations.search(String, String, String)
+  nameWithType: WebApiOperations.search(string, string, string)
+  nameWithType.vb: WebApiOperations.search(String, String, String)
+- uid: idox.eim.fusionp8.WebApiOperations.search*
+  name: search
+  href: api/idox.eim.fusionp8.WebApiOperations.html#idox_eim_fusionp8_WebApiOperations_search_
+  commentId: Overload:idox.eim.fusionp8.WebApiOperations.search
+  isSpec: "True"
+  fullName: idox.eim.fusionp8.WebApiOperations.search
+  nameWithType: WebApiOperations.search

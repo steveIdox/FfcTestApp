@@ -1,0 +1,16 @@
+{
+  "InputFiles": ["input.pdf"],
+  "OutputFilePath": "output.pdf",
+  "Jobs": [
+    {
+      "Type": "ConvertToPdf",
+      "JobSettings": {
+        "PdfSettings": {
+          "HeaderSettings": [{}],
+          "FooterSettings": [{}],
+          "Watermarks": [{}]
+        }
+      }
+    }
+  ]
+}
